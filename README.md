@@ -1,2 +1,2 @@
-# NLP-Disaster-Tweets
+# NLPDisasterTweets
 Using BERT to classify disaster tweets from non disaster tweets
